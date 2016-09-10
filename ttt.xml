@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Snegur</firstName>
+        <lastName>Mircea</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Lucinschi</firstName>
+        <lastName>Petru</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Voronin</firstName>
+        <lastName>Vologhea</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Ghimpu</firstName>
+        <lastName>Mihai</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Timofte</firstName>
+        <lastName>Mikola</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Filip</firstName>
+        <lastName>Pavel</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Strelet</firstName>
+        <lastName>Valeriu</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Gaburici</firstName>
+        <lastName>Kiril</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Leanca</firstName>
+        <lastName>Iurie</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+    <person>
+        <birthday>2002-02-20</birthday>
+        <city>some city</city>
+        <firstName>Filat</firstName>
+        <lastName>Vlad</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </person>
+</persons>
